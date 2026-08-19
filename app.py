@@ -8,7 +8,7 @@ st.set_page_config(
     layout="centered"
 )
 
-NOMOR_WA = "62895420464292" 
+NOMOR_WA = "62895420464292"
 
 # Kustomisasi CSS untuk Desain Romantis
 st.markdown("""
