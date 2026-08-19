@@ -8,6 +8,9 @@ st.set_page_config(
     layout="centered"
 )
 
+# MASUKKAN NOMOR WHATSAPP KAMU DI SINI (Gunakan kode negara 62, contoh: 628123456789)
+NOMOR_WA = "62895420464292" 
+
 # Kustomisasi CSS untuk Desain Romantis
 st.markdown("""
     <style>
